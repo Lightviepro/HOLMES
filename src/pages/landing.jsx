@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Landing = () => {
   return (
     <div className="flex flex-col">
-      this is landing page
+      om date
         <Button variant="destructive">Login</Button>
     </div>
   );
